@@ -2,7 +2,7 @@
 
 ## First:
 - Start Minikube cluster 
-- 
+
 ## Task 1:
 
 ### Steps to Deploy the application:
